@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Image or Video</title>
+    <!-- Bootstrap CSS -->
+    <!-- <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- Custom styles -->
+    <style>
+        .box {
+            max-width: 400px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            text-align: center;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <form class="form-signin" method="post" enctype="multipart/form-data" name="form1">
+            <img class="mb-4" src="/static/pytorch.png" alt="" width="72">
+            <h1 class="h3 mb-3 font-weight-normal">Upload any image or video</h1>
+            <input type="file" name="file" class="form-control-file" id="inputfile" required>
+            <br/>
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Upload</button>
+            <p class="mt-5 mb-3 text-muted">Built using PyTorch & Flask</p>
+        </form>
+    </div>
+    
+
+    <!-- Bootstrap JS (optional, if you need JavaScript) -->
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> -->
+</body>
+</html>

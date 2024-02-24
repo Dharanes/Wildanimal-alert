@@ -1,0 +1,1018 @@
+.galileodesign-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.galileodesign-galileodesign {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galileodesign-depth0-frame0 {
+  width: 1280px;
+  height: 954.6875px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(247, 249, 252, 1);
+}
+.galileodesign-depth1-frame0 {
+  width: 1280px;
+  height: 954.6875px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth2-frame0 {
+  gap: 4px;
+  width: 1280px;
+  height: 954.6875px;
+  display: flex;
+  padding: 20px 24px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.galileodesign-depth3-frame0 {
+  width: 307px;
+  height: 914.6875px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth4-frame0 {
+  width: 307px;
+  height: 914.6875px;
+  display: flex;
+  padding: 16px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(247, 249, 252, 1);
+}
+.galileodesign-depth5-frame0 {
+  gap: 16px;
+  width: 275px;
+  height: 336px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame0 {
+  gap: 12px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.galileodesign-depth7-frame0 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth8-frame0 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-size: cover;
+  background-image: url("public/external/tq_3jgti5nafn-ug1s-200h.png");
+}
+.galileodesign-depth6-frame1 {
+  gap: 8px;
+  width: 275px;
+  height: 280px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame001 {
+  gap: 12px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.galileodesign-depth8-frame001 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame0 {
+  width: 24px;
+  height: 24px;
+}
+.galileodesign-depth8-frame1 {
+  width: 49.28125px;
+  height: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame001 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth7-frame1 {
+  gap: 12px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.galileodesign-depth8-frame002 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame002 {
+  width: 24px;
+  height: 24px;
+}
+.galileodesign-depth8-frame11 {
+  width: 44.859375px;
+  height: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame003 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text02 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth7-frame2 {
+  gap: 12px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.galileodesign-depth8-frame003 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame004 {
+  width: 24px;
+  height: 24px;
+}
+.galileodesign-depth8-frame12 {
+  width: 60.828125px;
+  height: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame005 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text04 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth7-frame3 {
+  gap: 12px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.galileodesign-depth8-frame004 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame006 {
+  width: 24px;
+  height: 24px;
+}
+.galileodesign-depth8-frame13 {
+  width: 28.125px;
+  height: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame007 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text06 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth7-frame4 {
+  gap: 12px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.galileodesign-depth8-frame005 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame008 {
+  width: 24px;
+  height: 24px;
+}
+.galileodesign-depth8-frame14 {
+  width: 39.265625px;
+  height: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame009 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text08 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth7-frame5 {
+  gap: 12px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background-color: rgba(232, 237, 244, 1);
+}
+.galileodesign-depth8-frame006 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame010 {
+  width: 24px;
+  height: 24px;
+}
+.galileodesign-depth8-frame15 {
+  width: 42.703125px;
+  height: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame011 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text10 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth5-frame1 {
+  gap: 16px;
+  width: 275px;
+  height: 140px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame001 {
+  width: 275px;
+  height: 40px;
+  display: flex;
+  padding: 0 16px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: rgba(12, 119, 242, 1);
+}
+.galileodesign-depth7-frame002 {
+  width: 76.984375px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(12, 119, 242, 1);
+}
+.galileodesign-depth8-frame007 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text12 {
+  color: rgba(247, 249, 252, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth6-frame11 {
+  gap: 4px;
+  width: 275px;
+  height: 84px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame003 {
+  gap: 12px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.galileodesign-depth8-frame008 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame012 {
+  width: 24px;
+  height: 24px;
+}
+.galileodesign-depth8-frame16 {
+  width: 63.53125px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame013 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text14 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth7-frame11 {
+  gap: 12px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  padding: 8px 12px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.galileodesign-depth8-frame009 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame014 {
+  width: 24px;
+  height: 24px;
+}
+.galileodesign-depth8-frame17 {
+  width: 34.203125px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth9-frame015 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text16 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth3-frame1 {
+  width: 921px;
+  height: 914.6875px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth4-frame01 {
+  gap: 12px;
+  width: 921px;
+  height: 105px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.galileodesign-depth5-frame01 {
+  gap: 12px;
+  top: 16px;
+  left: 16px;
+  width: 341px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame002 {
+  width: 340.53125px;
+  height: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame004 {
+  width: 375px;
+  height: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text18 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth6-frame12 {
+  width: 340.53125px;
+  height: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame005 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text20 {
+  color: rgba(73, 112, 155, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth4-frame1 {
+  gap: 12px;
+  width: 921px;
+  height: 288.34375px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.galileodesign-depth5-frame02 {
+  gap: 12px;
+  top: 16px;
+  left: 16px;
+  width: 288px;
+  height: 256.34375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame003 {
+  width: 288.328125px;
+  height: 256.328125px;
+  display: flex;
+  padding: 0 16px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame006 {
+  width: 256.328125px;
+  height: 256.328125px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 128.1640625px;
+  background-size: cover;
+  background-image: url("public/external/tq_tubzjhkzoz-68j8-1500h.png");
+}
+.galileodesign-depth5-frame11 {
+  gap: 12px;
+  top: 16px;
+  left: 316px;
+  width: 288px;
+  height: 256.34375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame004 {
+  width: 288.328125px;
+  height: 256.328125px;
+  display: flex;
+  padding: 0 16px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame007 {
+  width: 256.328125px;
+  height: 256.328125px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 128.1640625px;
+  background-size: cover;
+  background-image: url("public/external/tq_mig9atuvvq-ncqb-1500h.png");
+}
+.galileodesign-depth5-frame2 {
+  gap: 12px;
+  top: 16px;
+  left: 617px;
+  width: 288px;
+  height: 256.34375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame005 {
+  width: 288.34375px;
+  height: 256.34375px;
+  display: flex;
+  padding: 0 16px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame008 {
+  width: 256.34375px;
+  height: 256.34375px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 128.171875px;
+  background-size: cover;
+  background-image: url("public/external/tq_vjd1gi9jxs-02tr-1500h.png");
+}
+.galileodesign-depth4-frame2 {
+  width: 921px;
+  height: 64px;
+  display: flex;
+  padding: 12px 16px;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.galileodesign-depth5-frame03 {
+  width: 480px;
+  height: 40px;
+  display: flex;
+  padding: 0 16px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: rgba(232, 237, 244, 1);
+}
+.galileodesign-depth6-frame006 {
+  width: 49.296875px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(232, 237, 244, 1);
+}
+.galileodesign-depth7-frame009 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text22 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth4-frame3 {
+  gap: 12px;
+  width: 921px;
+  height: 105px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.galileodesign-depth5-frame04 {
+  gap: 12px;
+  top: 16px;
+  left: 16px;
+  width: 288px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame007 {
+  width: 288px;
+  height: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame010 {
+  width: 328px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text24 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth6-frame13 {
+  width: 288px;
+  height: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame011 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text26 {
+  color: rgba(73, 112, 155, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galileodesign-depth4-frame4 {
+  gap: 12px;
+  width: 921px;
+  height: 288.34375px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.galileodesign-depth5-frame05 {
+  gap: 12px;
+  top: 16px;
+  left: 16px;
+  width: 288px;
+  height: 256.34375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame008 {
+  width: 288.328125px;
+  height: 256.328125px;
+  display: flex;
+  padding: 0 16px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame012 {
+  width: 256.328125px;
+  height: 256.328125px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 128.1640625px;
+  background-size: cover;
+  background-image: url("public/external/tq_n9aar5dhgz-v0os-1500h.png");
+}
+.galileodesign-depth5-frame12 {
+  gap: 12px;
+  top: 16px;
+  left: 316px;
+  width: 288px;
+  height: 256.34375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame009 {
+  width: 288.328125px;
+  height: 256.328125px;
+  display: flex;
+  padding: 0 16px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame013 {
+  width: 256.328125px;
+  height: 256.328125px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 128.1640625px;
+  background-size: cover;
+  background-image: url("public/external/tq_see1ocyjfy-nh1-1500h.png");
+}
+.galileodesign-depth5-frame21 {
+  gap: 12px;
+  top: 16px;
+  left: 617px;
+  width: 288px;
+  height: 256.34375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth6-frame010 {
+  width: 288.34375px;
+  height: 256.34375px;
+  display: flex;
+  padding: 0 16px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.galileodesign-depth7-frame014 {
+  width: 256.34375px;
+  height: 256.34375px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 128.171875px;
+  background-size: cover;
+  background-image: url("public/external/tq_fpueuxyiu5-6jq-1500h.png");
+}
+.galileodesign-depth4-frame5 {
+  width: 921px;
+  height: 64px;
+  display: flex;
+  padding: 12px 16px;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.galileodesign-depth5-frame06 {
+  width: 480px;
+  height: 40px;
+  display: flex;
+  padding: 0 16px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: rgba(232, 237, 244, 1);
+}
+.galileodesign-depth6-frame011 {
+  width: 94.875px;
+  height: 21px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(232, 237, 244, 1);
+}
+.galileodesign-depth7-frame015 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.galileodesign-text28 {
+  color: rgba(12, 20, 28, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}

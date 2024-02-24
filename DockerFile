@@ -1,0 +1,12 @@
+
+FROM ultralytics/yolov8:8.1.0
+
+WORKDIR /app
+
+RUN pip install opencv-python torch torchvision tensorflow
+
+COPY . .
+
+RUN apt-get update
+
+EXPOSE 8080
